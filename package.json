@@ -28,7 +28,6 @@
         "@testing-library/user-event": "^7.1.2",
         "axios": "^0.19.2",
         "babel-eslint": "^10.1.0",
-        "babel-loader": "^8.1.0",
         "bootstrap": "^4.6.0",
         "css-loader": "^4.2.0",
         "dotenv": "^8.2.0",
@@ -77,7 +76,6 @@
         "build": "react-scripts build",
         "test": "react-scripts test --env=jsdom",
         "eject": "react-scripts eject",
-        "compile": "webpack --config webpack.config.js"
     },
     "eslintConfig": {
         "extends": "react-app"
